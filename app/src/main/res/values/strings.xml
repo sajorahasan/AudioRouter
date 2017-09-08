@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Audio Router</string>
+
+    <string name="cannot_detect">Cannot detect</string>
+    <string name="cannot_save">Cannot save Toggle state</string>
+    <string name="cannot_support">Not support your device</string>
+    <string name="plugged">Wired headset is plugged</string>
+    <string name="save_file">AppState</string>
+    <string name="signature">© Sajora Hasan</string>
+    <string name="unplugged">Wired headset is unplugged</string>
+    <string name="waiting">...</string>
+    <string name="tile_label">Speaker</string>
+    <string name="service_active">Speaker</string>
+    <string name="service_inactive">Headphone</string>
+</resources>
